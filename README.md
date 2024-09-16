@@ -2,15 +2,11 @@
 
 Flutter registration project.
 
-## Getting Started
+1. Создал классы:
+ - RegistrationPage extends StatefulWidget
+ - _RegistrationPage extends State<RegistrationPage>
 
-This project is a starting point for a Flutter application.
+2. Сверстал интерфейс
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Результат на Эмуляторе:
+![изображение](https://github.com/user-attachments/assets/4f5e616c-3a45-4c66-ad84-31c12bebc1df)
