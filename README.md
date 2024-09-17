@@ -1,4 +1,7 @@
-# task_2
+# Flutter task_2
+
+Программирование корпоративных систем
+Сейранян Самвел, ЭФБО-01-22
 
 Flutter registration project.
 
