@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class RegistrationPage extends StatefulWidget {
   const RegistrationPage({super.key,
@@ -25,7 +24,12 @@ class _RegistrationPage extends State<RegistrationPage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.background,
-        title: const Text("Авторизация"),
+        title:
+        const Center(
+          child: Text(
+            "Авторизация",
+          ),
+        ),
       ),
       body: Center(
         child: Padding(
